@@ -1,0 +1,2 @@
+# Mission Statement
+Our objective is to deliver a revolutionary tool that highlights the state of urban areas under the flood levels impacted by climate change. By seamlessly integrating 3D building structures, we offer an immersive experience that enhances our understanding of the associated damages to the urban areas. Our goal is to equip communities, urban planners, and decision-makers with invaluable insights to effectively address the complexities of urban expansion while proactively mitigating the risks associated with climate change induced flooding.

@@ -1,0 +1,9 @@
+# Team GeoData Dynamos
+
+## App Name Urban Densifier Pro 
+
+## App Objective:
+Urban Densifier Pro aims to inform and assist decision-makers, developers, and planners in targeting areas suitable for densification and areas needing better infrastructure in the core of the HRM. Using various open data from different governmental organizations, we’ve created two suitability maps: one that identifies areas suitable for densification (DUPI), and another identifying areas lacking in sustainable urban infrastructure (SUII). The app allows users to visualize and describe relevant amenities and characteristics in the core of the HRM that contribute to the overall suitability maps (DUPI and SUII).
+
+## How to use Urban Densifier Pro:
+Urban Densifier Pro uses map overlays of population, land-use, ecological, transit, and urban amenities and features to highlight geographical regions within HRM that can be improved upon through intentional urban design. For example, the median height of buildings in a dissemination area (DA), allows developers to determine suitable locations for vertical expansion. Visualization of accessibility to services such as bus stops can help planners to increase equitable access to public transport. The two suitability maps, DUPI and SUII give each census tract or dissemination area scores based on the density of each feature, with a higher score indicating a more successfully densified or serviced area and a lower score indicating areas where urban densification and services could be improved. The DUPI and SUII maps are easily accessible through their respective tabs in the top contents pane of the app, where users can examine each feature layer in greater detail. Though our app is specific to HRM, the process can be applied to any municipality, assuming the relevant data is available.

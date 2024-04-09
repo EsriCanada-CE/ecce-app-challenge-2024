@@ -1,0 +1,4 @@
+# Our Mission Statement
+
+The Tri-City Wellbeing Initiative leverages various indicators of community health and spatial visualization to create a seamless portal for education. This supports community planning decision-makers in effectively designating resources to aid in the equitable growth of KWC. Moreover, it builds a repertoire for businesses and residents alike to learn more about their neighbourhoods. Specifically helping to curate business decisions for their customers, make more informed decisions when moving, and better understand the socio-economic diversity in their communities. To achieve this, the Wellbeing platform highlights key metrics such as social health, green space, and community demographics. Where the combination of these indicators creates an overall wellbeing index, scoring a community based on various facets of social health.
+

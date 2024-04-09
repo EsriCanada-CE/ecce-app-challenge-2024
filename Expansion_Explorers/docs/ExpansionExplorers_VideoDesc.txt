@@ -1,0 +1,3 @@
+This video describes the Community Garden Site Locator app created by the Expansion Explorers for the Esri Canada Centres of Excellence (ECCE) 2024 App Challenge.  
+
+In the video, you will discover the story behind the app, as well as a tutorial on how to use the app. 

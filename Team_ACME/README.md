@@ -1,4 +1,4 @@
-# **ESRI App Challenge 2024**
+# **Esri App Challenge 2024**
 ## **Team Acme - Centre of Geographic Sciences (COGS) - NSCC**
 - Sanita Richards
 - Abubakar Lasisi

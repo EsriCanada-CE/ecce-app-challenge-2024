@@ -90,7 +90,6 @@ On the Analysis tab,
 
 - The completed survey data is saved to an AGOL account 
 
-### Insights
 
 ### Layers
 
@@ -125,7 +124,7 @@ On the Analysis tab,
 - Video Voiceover - AI
 
 # Images
-Logo, Team Photo, Screenshots
+Resource Images: https://github.com/EsriCanada-CE/ecce-app-challenge-2024/tree/4c8b92b3b4fd0b1572e36972fad9e5b498f799ef/Team_ACME/images
 
 # Videos
-
+EcoCanvas Video: https://www.youtube.com/watch?v=HIGgPnoiG24&list=PLdgq5G0ox73UY-EJlU9AQmJ5YksqNVb8H

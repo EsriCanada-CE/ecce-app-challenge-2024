@@ -54,10 +54,10 @@ Here is a quick online demonstration about our app. For a full walk through refe
 ### Suitability model and address searching
 <img width="1056" alt="instruction1" src="./images/instruction1.png"> *This map represents the overall suitability of Toronto based on urban expansion features that threaten birds. Areas with high risk of causing bird mortalities appear in red, while areas that are more bird friendly appear in green. Type in your address to determine the risk to birds presented by the urban structures in your area!*
 
-<img width="1116" alt="instuction2" src="./images/instruction2.png">
+<img width="1116" alt="instuction2" src="./images/instuction2.png">
 
 ### The Layers
-<img width="946" alt="instuctions 3" src="./images/instruction3.png">
+<img width="946" alt="instuctions 3" src="./images/instuctions 3.png">
 
 **NBDI** stands for Normalized Built Difference Index, and is essentially a measurement of non-natural, man-made surfaces derived from satellite data. This map summarizes where pavement, concrete, steel, and other non-natural surfaces dominate the city in high densities. 
 

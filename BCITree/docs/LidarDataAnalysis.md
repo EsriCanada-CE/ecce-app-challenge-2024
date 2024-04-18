@@ -30,10 +30,10 @@
 ![CanopyCoverWorklow9](../images/CanopyCoverWorklow9.png)
 
 #### 3.	Run Join Field tool on the DisseminationAreas feature class to perform a one-to-one join of the layer from step 2 to DisseminationAreas on any unique field (we chose DAUID). This will join the shape_area of the intersected layer to DisseminationAreas:
-![CanopyCoverWorklow10](./images/CanopyCoverWorklow10.png)
+![CanopyCoverWorklow10](../images/CanopyCoverWorklow10.png)
 
 #### 4.	Add a field called CanopyPercentage of type double to DisseminationAreas:
-![CanopyCoverWorklow11](./images/CanopyCoverWorklow11.png)
+![CanopyCoverWorklow11](../images/CanopyCoverWorklow11.png)
 
 #### 5.	Calculate this field as 100*Shape_Area_1/Shape_Area:
 ![CanopyCoverWorklow12](../images/CanopyCoverWorklow12.png)

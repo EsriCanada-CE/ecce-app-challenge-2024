@@ -57,7 +57,7 @@ Here is a quick online demonstration about our app. For a full walk through refe
 <img width="1116" alt="instuction2" src="./images/instuction2.png">
 
 ### The Layers
-<img width="946" alt="instuctions 3" src="./images/instructions 3.png">
+<img width="946" alt="instuctions 3" src="./images/instuctions 3.png">
 
 **NBDI** stands for Normalized Built Difference Index, and is essentially a measurement of non-natural, man-made surfaces derived from satellite data. This map summarizes where pavement, concrete, steel, and other non-natural surfaces dominate the city in high densities. 
 
